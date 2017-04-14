@@ -2720,12 +2720,14 @@
     </library>
     <library name="rugged (v0.25.1.1, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rugged/0.25.1.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rugged-0.25.1.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rugged-0.25.1.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rugged-0.25.1.1/vendor" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rugged/0.25.1.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rugged-0.25.1.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rugged-0.25.1.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rugged-0.25.1.1/vendor" />
