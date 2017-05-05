@@ -244,6 +244,15 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/backports-3.6.8/set_version" />
       </SOURCES>
     </library>
+    <library name="between_meals (v0.0.7@bcacfe, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/chef-between-meals-bcacfe17a13d/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/chef-between-meals-bcacfe17a13d/lib" />
+      </SOURCES>
+    </library>
     <library name="between_meals (v0.0.7@c3ff97, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/chef-between-meals-c3ff97f88d23/lib" />
@@ -2897,6 +2906,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/chef-taste-tester-187040efae90/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/chef-taste-tester-187040efae90/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/chef-taste-tester-187040efae90/scripts" />
+      </SOURCES>
+    </library>
+    <library name="taste_tester (v0.0.12@a789ba, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/chef-taste-tester-a789ba9e117b/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/chef-taste-tester-a789ba9e117b/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/chef-taste-tester-a789ba9e117b/scripts" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/chef-taste-tester-a789ba9e117b/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/chef-taste-tester-a789ba9e117b/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/bundler/gems/chef-taste-tester-a789ba9e117b/scripts" />
       </SOURCES>
     </library>
     <library name="test-unit (v3.1.5, RVM: ruby-2.3.1 [global]) [gem]">
