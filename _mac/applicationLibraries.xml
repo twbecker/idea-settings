@@ -1,0 +1,7 @@
+<application>
+  <component name="GwtSdkManager">
+    <gwt-sdk-list>
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+    </gwt-sdk-list>
+  </component>
+</application>
