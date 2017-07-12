@@ -3,6 +3,7 @@
     <option name="customScope" value="Project Production Files" />
     <option name="defaultScopeName" value="Project Production Files" />
     <option name="SEARCH_SCOPE" value="Project Production Files" />
+    <option name="FILE_MASK" value="*.robot" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -14,6 +15,13 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>pom.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.r</mask>
+      <mask>*.ro</mask>
+      <mask>*.rob</mask>
+      <mask>*.robo</mask>
+      <mask>*.robot</mask>
     </recentFileMasks>
   </component>
 </application>
