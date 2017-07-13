@@ -10,8 +10,9 @@
       <option name="auto-commit" value="false" />
     </driver>
     <driver id="derby.embedded" name="Derby (Embedded)" dialect="Derby">
-      <artifact name="Apache Derby" use="true" />
+      <artifact name="Apache Derby" use="true" version="10.11.1.1" />
       <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
       <library>
         <url>file://$USER_HOME$/projects/ffs/ffs-server/target/ffs-server-7.2.0-SNAPSHOT-ffs-admin/ffs-admin/jetty/ffs-admin/lib/derby-10.8.1.2.jar</url>
       </library>
