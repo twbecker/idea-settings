@@ -1,7 +1,6 @@
 <application>
   <component name="UISettings">
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
-    <option name="FONT_FACE" value=".SF NS Text" />
-    <option name="FONT_SCALE" value="1.0" />
+    <option name="FONT_FACE" value=".SFNSText-Regular" />
   </component>
 </application>
