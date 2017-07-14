@@ -4,5 +4,13 @@
       <display-name>Builder.setSql (com.digitalsmiths.discovery.webapp.jdbc.GenericPreparedStatementSourceFactory)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setSql").withParameters("java.lang.String").definedInClass("com.digitalsmiths.discovery.webapp.jdbc.GenericPreparedStatementSourceFactory.Builder"))]]></place>
     </injection>
+    <injection language="Derby" injector-id="java">
+      <display-name>SqlQuery.value (org.skife.jdbi.v2.sqlobject)</display-name>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.skife.jdbi.v2.sqlobject.SqlQuery")]]></place>
+    </injection>
+    <injection language="Derby" injector-id="java">
+      <display-name>SqlUpdate.value (org.skife.jdbi.v2.sqlobject)</display-name>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.skife.jdbi.v2.sqlobject.SqlUpdate")]]></place>
+    </injection>
   </component>
 </application>
