@@ -16,13 +16,14 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>pom.xml</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.r</mask>
       <mask>*.ro</mask>
       <mask>*.rob</mask>
       <mask>*.robo</mask>
       <mask>*.robot</mask>
+      <mask>*</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
