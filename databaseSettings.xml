@@ -1,5 +1,6 @@
 <application>
-  <component name="DatabaseSettings">
+  <component name="DatabaseSettings" version="1">
+    <option name="execute-outside-option" value="2" />
     <csv-formats>
       <csv-format name="Tab-separated (TSV)">
         <data>
