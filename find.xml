@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="Project Production Files" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Production Files" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -15,7 +16,6 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>pom.xml</mask>
       <mask>*.</mask>
       <mask>*.r</mask>
       <mask>*.ro</mask>
@@ -24,6 +24,12 @@
       <mask>*.robot</mask>
       <mask>*</mask>
       <mask>*.sql</mask>
+      <mask>p</mask>
+      <mask>po</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.xm</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
