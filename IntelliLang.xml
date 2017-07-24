@@ -5,6 +5,10 @@
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setSql").withParameters("java.lang.String").definedInClass("com.digitalsmiths.discovery.webapp.jdbc.GenericPreparedStatementSourceFactory.Builder"))]]></place>
     </injection>
     <injection language="Derby" injector-id="java">
+      <display-name>Handle.createQuery (org.skife.jdbi.v2)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").withParameters("java.lang.String").definedInClass("org.skife.jdbi.v2.Handle"))]]></place>
+    </injection>
+    <injection language="Derby" injector-id="java">
       <display-name>SqlQuery.value (org.skife.jdbi.v2.sqlobject)</display-name>
       <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.skife.jdbi.v2.sqlobject.SqlQuery")]]></place>
     </injection>
