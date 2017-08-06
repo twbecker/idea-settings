@@ -9,12 +9,28 @@
       <mask>*.properties</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
-      <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
+      <mask>*.sql</mask>
+      <mask>po</mask>
+      <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.r</mask>
+      <mask>*.ro</mask>
+      <mask>*.rob</mask>
+      <mask>*.robo</mask>
+      <mask>*.robot</mask>
+      <mask>*</mask>
+      <mask>p</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.x</mask>
+      <mask>pom.xm</mask>
       <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
