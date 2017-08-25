@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="Project Production Files" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Production Files" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -15,7 +15,6 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.sql</mask>
-      <mask>po</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
@@ -24,16 +23,17 @@
       <mask>*.rob</mask>
       <mask>*.robo</mask>
       <mask>*.robot</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.java</mask>
       <mask>p</mask>
+      <mask>po</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.x</mask>
       <mask>pom.xm</mask>
       <mask>pom.xml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
