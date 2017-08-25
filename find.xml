@@ -5,8 +5,8 @@
     <option name="defaultScopeName" value="Project Production Files" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Production Files" />
+    <option name="FILE_MASK" value="*.dsl`" />
     <recentFileMasks>
-      <mask>*.properties</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.js</mask>
@@ -22,8 +22,6 @@
       <mask>*.rob</mask>
       <mask>*.robo</mask>
       <mask>*.robot</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.java</mask>
       <mask>p</mask>
@@ -33,6 +31,12 @@
       <mask>pom.x</mask>
       <mask>pom.xm</mask>
       <mask>pom.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.d</mask>
+      <mask>*.ds</mask>
+      <mask>*.dsl</mask>
+      <mask>*.dsl`</mask>
     </recentFileMasks>
   </component>
 </application>
