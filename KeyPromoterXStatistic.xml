@@ -1,11 +1,27 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Back">
+        <Item>
+          <IdeaActionID>Back</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
+          <Description>Back</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Class...">
         <Item>
           <IdeaActionID>GotoClass</IdeaActionID>
           <ShortCut>'Ctrl+N'</ShortCut>
           <Description>Class...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Declaration">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
+          <Description>Declaration</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
