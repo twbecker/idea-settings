@@ -1,12 +1,14 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project Production Files" />
     <option name="defaultScopeName" value="Project Production Files" />
     <option name="regularExpressions" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Production Files" />
+    <option name="FILE_MASK" value="*.robot" />
     <recentFileMasks>
-      <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.sql</mask>
@@ -15,9 +17,7 @@
       <mask>*.x</mask>
       <mask>*.r</mask>
       <mask>*.ro</mask>
-      <mask>*.rob</mask>
       <mask>*.robo</mask>
-      <mask>*.robot</mask>
       <mask>*.j</mask>
       <mask>p</mask>
       <mask>po</mask>
@@ -32,10 +32,13 @@
       <mask>*.dsl`</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.dr</mask>
       <mask>*.drl</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.rob</mask>
+      <mask>*.robot</mask>
     </recentFileMasks>
   </component>
 </application>
