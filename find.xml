@@ -3,10 +3,8 @@
     <option name="customScope" value="Project Production Files" />
     <option name="defaultScopeName" value="Project Production Files" />
     <option name="SEARCH_SCOPE" value="Project Production Files" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.sql</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
@@ -14,13 +12,6 @@
       <mask>*.ro</mask>
       <mask>*.robo</mask>
       <mask>*.j</mask>
-      <mask>p</mask>
-      <mask>po</mask>
-      <mask>pom</mask>
-      <mask>pom.</mask>
-      <mask>pom.x</mask>
-      <mask>pom.xm</mask>
-      <mask>pom.xml</mask>
       <mask>*.d</mask>
       <mask>*.ds</mask>
       <mask>*.dsl</mask>
@@ -34,6 +25,16 @@
       <mask>*.p</mask>
       <mask>*.rob</mask>
       <mask>*.robot</mask>
+      <mask>p</mask>
+      <mask>po</mask>
+      <mask>pom</mask>
+      <mask>pom.mxl</mask>
+      <mask>pom.mx</mask>
+      <mask>pom.m</mask>
+      <mask>pom.</mask>
+      <mask>pom.x</mask>
+      <mask>pom.xm</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
