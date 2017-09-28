@@ -14,7 +14,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>115</Count>
+          <Count>121</Count>
         </Item>
       </Statistic>
       <Statistic Action="Class...">
@@ -54,7 +54,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Catalog Server'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'CatalogRecordStoreTest.testRou...'">
@@ -102,7 +102,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>22</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -185,6 +185,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Recompile 'Catalogs.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile 'Catalogs.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Recompile 'ConsoleModule.java'">
         <Item>
           <IdeaActionID>Compile</IdeaActionID>
@@ -262,7 +270,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Run Individual Robot Test'</Description>
-          <Count>87</Count>
+          <Count>88</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Run Robot Test'">
@@ -278,7 +286,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>470</Count>
+          <Count>473</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -366,7 +374,7 @@
           <IdeaActionID>XDebugger.SetValue</IdeaActionID>
           <ShortCut>'F2'</ShortCut>
           <Description>Set Value...</Description>
-          <Count>7</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -406,7 +414,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>233</Count>
+          <Count>243</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'RuleValidatorTest'">
