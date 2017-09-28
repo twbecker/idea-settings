@@ -14,7 +14,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>114</Count>
+          <Count>115</Count>
         </Item>
       </Statistic>
       <Statistic Action="Class...">
@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>27</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -54,7 +54,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Catalog Server'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'CatalogRecordStoreTest.testRou...'">
@@ -270,7 +270,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Run Robot Test'</Description>
-          <Count>33</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -278,7 +278,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>468</Count>
+          <Count>470</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -414,6 +414,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'RuleValidatorTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Run Robot Test'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Run Robot Test'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
