@@ -49,6 +49,14 @@
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug">
+        <Item>
+          <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
+          <ShortCut>'Alt+5'</ShortCut>
+          <Description>Debug</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Catalog Server'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -270,7 +278,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Run Individual Robot Test'</Description>
-          <Count>88</Count>
+          <Count>91</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Run Robot Test'">
@@ -286,7 +294,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>473</Count>
+          <Count>474</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -415,6 +423,14 @@
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
           <Count>243</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Catalog Server'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Catalog Server'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'RuleValidatorTest'">
