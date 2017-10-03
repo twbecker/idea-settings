@@ -86,7 +86,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'CatalogRecordStoreTest.testPro...'</Description>
-          <Count>5</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'CatalogRecordStoreTest.testRou...'">
@@ -134,7 +134,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>25</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -334,7 +334,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>500</Count>
+          <Count>549</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -351,6 +351,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'CatalogManagerTest'</Description>
           <Count>17</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'CatalogRecordStoreTest.testPro...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'CatalogRecordStoreTest.testPro...'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ExperimentFragmentValidatorTes...'">
@@ -454,7 +462,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>36</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -470,7 +478,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>264</Count>
+          <Count>328</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Catalog Server'">
@@ -487,6 +495,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'CatalogManagerTest'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'CatalogRecordStoreTest.testProduceFailure'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'CatalogRecordStoreTest.testProduceFailure'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'RuleValidatorTest'">
