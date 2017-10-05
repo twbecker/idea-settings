@@ -38,7 +38,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>36</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -334,7 +334,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Run Individual Robot Test'</Description>
-          <Count>110</Count>
+          <Count>114</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Run Robot Test'">
@@ -350,7 +350,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>624</Count>
+          <Count>626</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
