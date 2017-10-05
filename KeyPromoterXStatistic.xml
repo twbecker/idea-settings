@@ -9,12 +9,20 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Base on This Class">
+        <Item>
+          <IdeaActionID>TypeHierarchy.BaseOnThisType</IdeaActionID>
+          <ShortCut>'Ctrl+H'</ShortCut>
+          <Description>Base on This Class</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Build Project">
         <Item>
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>139</Count>
+          <Count>142</Count>
         </Item>
       </Statistic>
       <Statistic Action="Class...">
@@ -126,7 +134,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'ffs'</Description>
-          <Count>48</Count>
+          <Count>49</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -214,6 +222,14 @@
           <IdeaActionID>Compile</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F9'</ShortCut>
           <Description>Recompile '...rimentResource.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...roJaxRsFeature.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...roJaxRsFeature.java'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -318,7 +334,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Run Individual Robot Test'</Description>
-          <Count>106</Count>
+          <Count>108</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Run Robot Test'">
@@ -334,7 +350,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>618</Count>
+          <Count>619</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -486,7 +502,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>425</Count>
+          <Count>435</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Catalog Server'">
