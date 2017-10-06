@@ -38,7 +38,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>37</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -134,7 +134,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'ffs'</Description>
-          <Count>50</Count>
+          <Count>53</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -142,7 +142,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>48</Count>
+          <Count>49</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -191,6 +191,14 @@
           <ShortCut>'Ctrl+Shift+F9'</ShortCut>
           <Description>Recompile '...dgeBaseManager.java'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...lterDispatcher.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...lterDispatcher.java'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...ndererResource.java'">
@@ -350,7 +358,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>626</Count>
+          <Count>653</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -486,7 +494,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>43</Count>
+          <Count>45</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -502,7 +510,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>437</Count>
+          <Count>463</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Catalog Server'">
@@ -558,7 +566,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'ffs'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
     </option>
