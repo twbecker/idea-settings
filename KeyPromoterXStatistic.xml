@@ -494,7 +494,7 @@
           <IdeaActionID>ChangesView.Diff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Into">
@@ -575,6 +575,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'ffs'</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Unshelve...">
+        <Item>
+          <IdeaActionID>ShelveChanges.UnshelveWithDialog</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+U'</ShortCut>
+          <Description>Unshelve...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
     </option>
