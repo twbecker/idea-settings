@@ -30,6 +30,9 @@
       <package name="com.tivo" withSubpackages="true" static="false" />
     </value>
   </option>
+  <JSON>
+    <option name="ARRAY_WRAPPING" value="1" />
+  </JSON>
   <codeStyleSettings language="JAVA">
     <option name="IF_BRACE_FORCE" value="3" />
     <option name="DOWHILE_BRACE_FORCE" value="3" />

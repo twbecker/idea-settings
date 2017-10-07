@@ -1,37 +1,40 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'kafka'" />
-    <option name="defaultScopeName" value="Project 'kafka'" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'kafka'" />
+    <option name="customScope" value="Changed Files" />
+    <option name="defaultScopeName" value="Changed Files" />
+    <option name="SEARCH_SCOPE" value="Changed Files" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.sql</mask>
-      <mask>po</mask>
-      <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
       <mask>*.r</mask>
       <mask>*.ro</mask>
-      <mask>*.rob</mask>
       <mask>*.robo</mask>
+      <mask>*.d</mask>
+      <mask>*.ds</mask>
+      <mask>*.dsl</mask>
+      <mask>*.dsl`</mask>
+      <mask>*.ja</mask>
+      <mask>*.dr</mask>
+      <mask>*.drl</mask>
+      <mask>*.p</mask>
+      <mask>*.rob</mask>
       <mask>*.robot</mask>
-      <mask>*</mask>
       <mask>p</mask>
+      <mask>po</mask>
       <mask>pom</mask>
+      <mask>pom.mxl</mask>
+      <mask>pom.mx</mask>
+      <mask>pom.m</mask>
       <mask>pom.</mask>
       <mask>pom.x</mask>
       <mask>pom.xm</mask>
       <mask>pom.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>

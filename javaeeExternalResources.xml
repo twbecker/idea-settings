@@ -1,6 +1,8 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <resource url="http://checkstyle.sourceforge.net/dtds/import_control_1_3.dtd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/185d3a18_import_control_1_3.dtd" />
     <resource url="http://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.0" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/489cc366_assembly-1.1.0.xsd" />
     <resource url="http://maven.apache.org/xsd/assembly-1.1.2.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/48b8f268_assembly-1.1.2.xsd" />
+    <resource url="http://www.puppycrawl.com/dtds/configuration_1_3.dtd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/1524e8b2_configuration_1_3.dtd" />
   </component>
 </application>

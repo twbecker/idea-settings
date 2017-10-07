@@ -2,14 +2,14 @@
   <tool name="Run Robot Test" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/usr/local/bin/pybot" />
-      <option name="PARAMETERS" value="-V $ModuleFileDir$/src/test/robotframework/robotvariables.py -C on -e need-slave -e catalog-server -e soapui -e customer -d $ModuleFileDir$/target  $FilePathRelativeToProjectRoot$ " />
+      <option name="PARAMETERS" value="-V $ModuleFileDir$/src/test/robotframework/robotvariables.py -C on -L DEBUG --removekeywords wuks --removekeywords for -e need-slave -e catalog-server -e soapui -e customer -d $ModuleFileDir$/target  $FilePathRelativeToProjectRoot$ " />
       <option name="WORKING_DIRECTORY" value="$ModuleFileDir$" />
     </exec>
   </tool>
   <tool name="Run Individual Robot Test" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/usr/local/bin/pybot" />
-      <option name="PARAMETERS" value="-V $ModuleFileDir$/src/test/robotframework/robotvariables.py -C on -e need-slave -e catalog-server -e soapui -e customer -d $ModuleFileDir$/target  -t &quot;$SelectedText$&quot; $FilePathRelativeToProjectRoot$ " />
+      <option name="PARAMETERS" value="-V $ModuleFileDir$/src/test/robotframework/robotvariables.py -C on -L DEBUG --removekeywords wuks --removekeywords for -e need-slave -e catalog-server -e soapui -e customer -d $ModuleFileDir$/target  -t &quot;$SelectedText$&quot; $FilePathRelativeToProjectRoot$ " />
       <option name="WORKING_DIRECTORY" value="$ModuleFileDir$" />
     </exec>
   </tool>
