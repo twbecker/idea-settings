@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Production Files" />
-    <option name="defaultScopeName" value="Project Production Files" />
+    <option name="customScope" value="Project 'kafka'" />
+    <option name="defaultScopeName" value="Project 'kafka'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project Production Files" />
+    <option name="SEARCH_SCOPE" value="Project 'kafka'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
