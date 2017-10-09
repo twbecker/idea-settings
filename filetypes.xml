@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="wait-for" type="Bash" />
       <mapping ext="avsc" type="JSON" />
+      <mapping ext="j2" type="Jinja2" />
       <mapping pattern="session" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
