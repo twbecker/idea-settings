@@ -19,21 +19,21 @@
       <mask>*.p</mask>
       <mask>*.rob</mask>
       <mask>*.robot</mask>
-      <mask>p</mask>
-      <mask>po</mask>
-      <mask>pom</mask>
       <mask>pom.mxl</mask>
       <mask>pom.mx</mask>
       <mask>pom.m</mask>
-      <mask>pom.</mask>
       <mask>pom.x</mask>
-      <mask>pom.xm</mask>
-      <mask>pom.xml</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>p</mask>
+      <mask>po</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.xm</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
