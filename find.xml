@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'ffs'" />
-    <option name="defaultScopeName" value="Project 'ffs'" />
-    <option name="SEARCH_SCOPE" value="Project 'ffs'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.xm</mask>
       <mask>*.x</mask>
