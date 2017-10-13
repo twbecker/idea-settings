@@ -417,6 +417,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'DrlGeneratorTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'DrlGeneratorTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'ExperimentFragmentValidatorTes...'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
