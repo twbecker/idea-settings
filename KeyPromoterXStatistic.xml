@@ -38,7 +38,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>47</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -175,14 +175,6 @@
           <ShortCut>'Ctrl+V' or 'Shift+Insert'</ShortCut>
           <Description>Paste</Description>
           <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Paste from X clipboard">
-        <Item>
-          <IdeaActionID>EditorPasteFromX11</IdeaActionID>
-          <ShortCut>'Button2 Click'</ShortCut>
-          <Description>Paste from X clipboard</Description>
-          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -649,6 +641,14 @@
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Paste from X clipboard">
+        <Item>
+          <IdeaActionID>EditorPasteFromX11</IdeaActionID>
+          <ShortCut>'Button2 Click'</ShortCut>
+          <Description>Paste from X clipboard</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
