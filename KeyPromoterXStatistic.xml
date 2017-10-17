@@ -22,7 +22,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>167</Count>
+          <Count>168</Count>
         </Item>
       </Statistic>
       <Statistic Action="Class...">
@@ -134,7 +134,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'ffs'</Description>
-          <Count>62</Count>
+          <Count>64</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -151,6 +151,14 @@
           <ShortCut>'Delete'</ShortCut>
           <Description>Exclude</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Hierarchy">
+        <Item>
+          <IdeaActionID>ActivateHierarchyToolWindow</IdeaActionID>
+          <ShortCut>'Alt+8'</ShortCut>
+          <Description>Hierarchy</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
@@ -230,6 +238,14 @@
           <IdeaActionID>Compile</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F9'</ShortCut>
           <Description>Recompile '...ngQueryHandler.java'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...ocationHandler.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...ocationHandler.java'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
@@ -382,7 +398,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Run Robot Test'</Description>
-          <Count>48</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'StreamsKafkaClientTest.testMetrics'">
@@ -398,7 +414,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>914</Count>
+          <Count>915</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -566,7 +582,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>567</Count>
+          <Count>568</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Catalog Server'">
@@ -622,7 +638,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'ffs'</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
