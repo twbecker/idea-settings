@@ -385,6 +385,14 @@
           <Count>48</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'StreamsKafkaClientTest.testMetrics'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'StreamsKafkaClientTest.testMetrics'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Resume Program">
         <Item>
           <IdeaActionID>Resume</IdeaActionID>
@@ -398,7 +406,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CatalogManagerTest'">
@@ -497,6 +505,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'StreamsKafkaClientTest.testMet...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'StreamsKafkaClientTest.testMet...'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'testVariationGener...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -526,7 +542,7 @@
           <IdeaActionID>ChangesView.Diff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Into">
