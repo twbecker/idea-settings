@@ -22,7 +22,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>147</Count>
+          <Count>168</Count>
         </Item>
       </Statistic>
       <Statistic Action="Class...">
@@ -38,7 +38,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>42</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -54,7 +54,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
           <Description>Copy Reference</Description>
-          <Count>12</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Value">
@@ -78,7 +78,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Catalog Server'</Description>
-          <Count>12</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'CatalogManagerTest'">
@@ -134,7 +134,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'ffs'</Description>
-          <Count>59</Count>
+          <Count>64</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -153,11 +153,27 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Hierarchy">
+        <Item>
+          <IdeaActionID>ActivateHierarchyToolWindow</IdeaActionID>
+          <ShortCut>'Alt+8'</ShortCut>
+          <Description>Hierarchy</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Jump to Source">
         <Item>
           <IdeaActionID>EditSource</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Jump to Source</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Move...">
+        <Item>
+          <IdeaActionID>Move</IdeaActionID>
+          <ShortCut>'F6'</ShortCut>
+          <Description>Move...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -169,20 +185,12 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Paste from X clipboard">
-        <Item>
-          <IdeaActionID>EditorPasteFromX11</IdeaActionID>
-          <ShortCut>'Button2 Click'</ShortCut>
-          <Description>Paste from X clipboard</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Project Structure...">
         <Item>
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...StateValidator.java'">
@@ -230,6 +238,14 @@
           <IdeaActionID>Compile</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F9'</ShortCut>
           <Description>Recompile '...ngQueryHandler.java'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...ocationHandler.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...ocationHandler.java'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
@@ -294,7 +310,7 @@
           <IdeaActionID>Compile</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F9'</ShortCut>
           <Description>Recompile 'KafkaManager.java'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile 'RendererResource.java'">
@@ -319,6 +335,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Refresh</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Catalog Server'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'Catalog Server'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CatalogManagerTest'">
@@ -374,7 +398,15 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Run Robot Test'</Description>
-          <Count>42</Count>
+          <Count>51</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'StreamsKafkaClientTest.testMetrics'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'StreamsKafkaClientTest.testMetrics'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -382,7 +414,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>854</Count>
+          <Count>915</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -390,7 +422,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>10</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CatalogManagerTest'">
@@ -415,6 +447,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'CatalogRecordStoreTest.testRou...'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'DrlGeneratorTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'DrlGeneratorTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ExperimentFragmentValidatorTes...'">
@@ -481,6 +521,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'StreamsKafkaClientTest.testMet...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'StreamsKafkaClientTest.testMet...'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'testVariationGener...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -510,7 +558,7 @@
           <IdeaActionID>ChangesView.Diff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>14</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Into">
@@ -518,7 +566,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>47</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -534,7 +582,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>518</Count>
+          <Count>568</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Catalog Server'">
@@ -590,7 +638,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'ffs'</Description>
-          <Count>10</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
@@ -625,6 +673,30 @@
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>GoTo</Description>
           <Count>17</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Hide All Windows">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F12'</ShortCut>
+          <Description>Hide All Windows</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Paste from X clipboard">
+        <Item>
+          <IdeaActionID>EditorPasteFromX11</IdeaActionID>
+          <ShortCut>'Button2 Click'</ShortCut>
+          <Description>Paste from X clipboard</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Restore Windows">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F12'</ShortCut>
+          <Description>Restore Windows</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">

@@ -1,8 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project Production Files" />
+    <option name="defaultScopeName" value="Project Production Files" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="Project Production Files" />
     <recentFileMasks>
       <mask>*.xm</mask>
       <mask>*.x</mask>
@@ -19,21 +21,21 @@
       <mask>*.p</mask>
       <mask>*.rob</mask>
       <mask>*.robot</mask>
-      <mask>p</mask>
-      <mask>po</mask>
-      <mask>pom</mask>
       <mask>pom.mxl</mask>
       <mask>pom.mx</mask>
       <mask>pom.m</mask>
-      <mask>pom.</mask>
       <mask>pom.x</mask>
-      <mask>pom.xm</mask>
-      <mask>pom.xml</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>p</mask>
+      <mask>po</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.xm</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
