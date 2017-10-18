@@ -369,6 +369,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'GitStoreTest.testUniqueIndex'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'GitStoreTest.testUniqueIndex'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'PublishStateValidatorTest.testMissingRuleTap'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
