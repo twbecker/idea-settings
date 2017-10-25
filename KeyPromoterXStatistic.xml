@@ -22,7 +22,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>184</Count>
+          <Count>186</Count>
         </Item>
       </Statistic>
       <Statistic Action="Class...">
@@ -38,7 +38,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>56</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -462,7 +462,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CatalogManagerTest'">
