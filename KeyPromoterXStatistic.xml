@@ -201,6 +201,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Preview the current selected bug.">
+        <Item>
+          <IdeaActionID>FindBugs.PreviewSelectBugInstance</IdeaActionID>
+          <ShortCut>'Alt+Q' or 'Alt+Button1 Click'</ShortCut>
+          <Description>Preview the current selected bug.</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Project Structure...">
         <Item>
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
