@@ -169,6 +169,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Generate DDL to Console">
+        <Item>
+          <IdeaActionID>DatabaseView.OpenDdlInConsole</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+B'</ShortCut>
+          <Description>Generate DDL to Console</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Hierarchy">
         <Item>
           <IdeaActionID>ActivateHierarchyToolWindow</IdeaActionID>
@@ -703,6 +711,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'ffs'</Description>
           <Count>15</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Synchronize">
+        <Item>
+          <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Y'</ShortCut>
+          <Description>Synchronize</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
