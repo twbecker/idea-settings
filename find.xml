@@ -7,11 +7,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.avsc" />
     <recentFileMasks>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
-      <mask>*.r</mask>
-      <mask>*.ro</mask>
       <mask>*.robo</mask>
       <mask>*.d</mask>
       <mask>*.ds</mask>
@@ -34,10 +31,14 @@
       <mask>pom.</mask>
       <mask>pom.xm</mask>
       <mask>pom.xml</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.java</mask>
+      <mask>*</mask>
+      <mask>*.a</mask>
+      <mask>*.av</mask>
+      <mask>*.avs</mask>
+      <mask>*.avsc</mask>
     </recentFileMasks>
   </component>
 </application>
