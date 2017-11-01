@@ -7,6 +7,7 @@
       <mapping ext="j2" type="Jinja2" />
       <mapping pattern="session" type="PLAIN_TEXT" />
       <mapping pattern="kafka-test" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="Properties" />
     </extensionMap>
   </component>
 </application>
