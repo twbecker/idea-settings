@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="pom.xml" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.ds</mask>
       <mask>*.dsl</mask>
@@ -22,14 +22,10 @@
       <mask>pom.m</mask>
       <mask>pom.x</mask>
       <mask>*.jav</mask>
-      <mask>*.j</mask>
-      <mask>*.java</mask>
-      <mask>*</mask>
       <mask>*.avsc</mask>
       <mask>*.avs</mask>
       <mask>*.av</mask>
       <mask>*.a</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.pom.</mask>
       <mask>*.pom</mask>
@@ -39,6 +35,10 @@
       <mask>pom.</mask>
       <mask>pom.xm</mask>
       <mask>pom.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
