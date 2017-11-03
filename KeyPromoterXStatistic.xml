@@ -22,7 +22,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>210</Count>
+          <Count>211</Count>
         </Item>
       </Statistic>
       <Statistic Action="Class...">
@@ -486,7 +486,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Run Individual Robot Test'</Description>
-          <Count>160</Count>
+          <Count>161</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Run Robot Test'">
@@ -526,7 +526,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CatalogManagerTest'">
