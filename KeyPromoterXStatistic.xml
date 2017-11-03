@@ -46,7 +46,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
@@ -121,6 +121,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'FFS Docker'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'FFS Docker'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'RuleValidatorTest'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -150,7 +158,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'ffs'</Description>
-          <Count>79</Count>
+          <Count>80</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -166,7 +174,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>69</Count>
+          <Count>70</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -478,7 +486,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Run Robot Test'</Description>
-          <Count>57</Count>
+          <Count>61</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'StreamsKafkaClientTest.testMetrics'">
@@ -502,7 +510,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1186</Count>
+          <Count>1187</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -678,7 +686,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>78</Count>
+          <Count>80</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -694,7 +702,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>656</Count>
+          <Count>682</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Catalog Server'">
@@ -734,6 +742,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Catserver'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'FFS Docker'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'FFS Docker'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
