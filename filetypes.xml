@@ -2,9 +2,11 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="wait-for" type="Bash" />
+      <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="avsc" type="JSON" />
       <mapping ext="j2" type="Jinja2" />
       <mapping pattern="session" type="PLAIN_TEXT" />
+      <mapping pattern="kafka-test" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
