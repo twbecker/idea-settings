@@ -182,7 +182,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>78</Count>
+          <Count>79</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -558,7 +558,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1232</Count>
+          <Count>1233</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -766,7 +766,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>723</Count>
+          <Count>724</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Catalog Server'">
