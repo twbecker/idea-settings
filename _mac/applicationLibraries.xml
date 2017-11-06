@@ -5,4 +5,26 @@
       <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
     </gwt-sdk-list>
   </component>
+  <component name="libraryTable">
+    <library name="scala-sdk-2.12.3" type="Scala">
+      <properties>
+        <compiler-classpath>
+          <root url="file:///usr/local/Cellar/scala/2.12.3/libexec/lib/scala-library.jar" />
+          <root url="file:///usr/local/Cellar/scala/2.12.3/libexec/lib/scala-compiler.jar" />
+          <root url="file:///usr/local/Cellar/scala/2.12.3/libexec/lib/scala-reflect.jar" />
+        </compiler-classpath>
+      </properties>
+      <CLASSES>
+        <root url="jar:///usr/local/Cellar/scala/2.12.3/libexec/lib/scala-swing_2.12-2.0.0.jar!/" />
+        <root url="jar:///usr/local/Cellar/scala/2.12.3/libexec/lib/scala-library.jar!/" />
+        <root url="jar:///usr/local/Cellar/scala/2.12.3/libexec/lib/scala-reflect.jar!/" />
+        <root url="jar:///usr/local/Cellar/scala/2.12.3/libexec/lib/scala-xml_2.12-1.0.6.jar!/" />
+        <root url="jar:///usr/local/Cellar/scala/2.12.3/libexec/lib/scala-parser-combinators_2.12-1.0.6.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="http://www.scala-lang.org/api/2.12.3/" />
+      </JAVADOC>
+      <SOURCES />
+    </library>
+  </component>
 </application>
