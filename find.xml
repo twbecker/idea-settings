@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.ds</mask>
@@ -17,7 +15,6 @@
       <mask>pom.mxl</mask>
       <mask>pom.mx</mask>
       <mask>pom.m</mask>
-      <mask>pom.x</mask>
       <mask>*.jav</mask>
       <mask>*.avsc</mask>
       <mask>*.avs</mask>
@@ -26,16 +23,17 @@
       <mask>*.p</mask>
       <mask>*.pom.</mask>
       <mask>*.pom</mask>
-      <mask>p</mask>
       <mask>po</mask>
-      <mask>pom</mask>
-      <mask>pom.</mask>
-      <mask>pom.xm</mask>
-      <mask>pom.xml</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.java</mask>
+      <mask>p</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.x</mask>
+      <mask>pom.xm</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
