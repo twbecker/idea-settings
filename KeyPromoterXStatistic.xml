@@ -566,7 +566,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1246</Count>
+          <Count>1247</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -774,7 +774,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>724</Count>
+          <Count>728</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Catalog Server'">
