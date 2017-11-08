@@ -3,10 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
-      <mask>*.ds</mask>
-      <mask>*.dsl</mask>
-      <mask>*.dsl`</mask>
       <mask>*.ja</mask>
       <mask>*.dr</mask>
       <mask>*.drl</mask>
@@ -24,8 +22,6 @@
       <mask>*.pom.</mask>
       <mask>*.pom</mask>
       <mask>po</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.java</mask>
       <mask>p</mask>
@@ -34,6 +30,11 @@
       <mask>pom.x</mask>
       <mask>pom.xm</mask>
       <mask>pom.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.y</mask>
+      <mask>*.ym</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
