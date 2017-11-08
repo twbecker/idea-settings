@@ -129,6 +129,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'ExperimentTest.testDimensions'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'ExperimentTest.testDimensions'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'FFS Docker'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -481,6 +489,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ExperimentTest.testDimensions'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'ExperimentTest.testDimensions'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'FFS Docker'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -566,7 +582,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1247</Count>
+          <Count>1254</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -631,6 +647,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'ExperimentGenerationTest.testG...'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ExperimentTest.testDimensions'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'ExperimentTest.testDimensions'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'PublishStateValidatorTest'">
@@ -766,7 +790,7 @@
           <IdeaActionID>StepOut</IdeaActionID>
           <ShortCut>'Shift+F8'</ShortCut>
           <Description>Step Out</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -774,7 +798,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>728</Count>
+          <Count>750</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Catalog Server'">
@@ -815,6 +839,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Catserver'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ExperimentTest.testDimensions'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'ExperimentTest.testDimensions'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'FFS Docker'">
