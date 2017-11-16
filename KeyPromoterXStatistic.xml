@@ -22,7 +22,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>245</Count>
+          <Count>249</Count>
         </Item>
       </Statistic>
       <Statistic Action="Class...">
@@ -598,7 +598,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Run Individual Robot Test'</Description>
-          <Count>181</Count>
+          <Count>187</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Run Robot Test'">
