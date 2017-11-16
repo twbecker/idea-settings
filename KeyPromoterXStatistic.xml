@@ -22,7 +22,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>249</Count>
+          <Count>250</Count>
         </Item>
       </Statistic>
       <Statistic Action="Class...">
@@ -534,7 +534,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'ExperimentGenerationTest'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ExperimentTest.testDimensions'">
@@ -694,7 +694,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'ExperimentGenerationTest'</Description>
-          <Count>10</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ExperimentGenerationTest.testG...'">
