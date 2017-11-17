@@ -65,6 +65,9 @@
       <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
       <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
       <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
     </gwt-sdk-list>
   </component>
   <component name="libraryTable">
@@ -2320,31 +2323,37 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/public_suffix-2.0.5/data" />
       </SOURCES>
     </library>
-    <library name="Python 2.7.6 (/usr/bin/python2.7) interpreter library">
+    <library name="Python 2.7.12 virtualenv at ~/projects/ansible/venv interpreter library">
       <CLASSES>
+        <root url="file://$USER_HOME$/projects/ansible/venv/lib/python2.7" />
+        <root url="file://$USER_HOME$/projects/ansible/venv/lib/python2.7/lib-dynload" />
         <root url="file:///usr/lib/python2.7" />
         <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
         <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/PILcompat" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file:///usr/lib/python2.7/dist-packages/ubuntu-sso-client" />
+        <root url="file://$USER_HOME$/projects/ansible/venv/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/projects/ansible/venv/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2017.2/system/python_stubs/-184495902" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$USER_HOME$/projects/ansible/venv/lib/python2.7" />
+        <root url="file://$USER_HOME$/projects/ansible/venv/lib/python2.7/lib-dynload" />
         <root url="file:///usr/lib/python2.7" />
         <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
         <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file:///usr/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages" />
-        <root url="file:///usr/lib/python2.7/dist-packages/PILcompat" />
-        <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-        <root url="file:///usr/lib/python2.7/dist-packages/ubuntu-sso-client" />
+        <root url="file://$USER_HOME$/projects/ansible/venv/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/projects/ansible/venv/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2017.2/system/python_stubs/-184495902" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
     <library name="rack (v1.6.4, RVM: ruby-2.3.1) [gem]">
