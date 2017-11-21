@@ -8,6 +8,7 @@
       <mapping pattern="kafka-test" type="PLAIN_TEXT" />
       <mapping pattern="aws" type="PLAIN_TEXT" />
       <mapping pattern="session" type="PLAIN_TEXT" />
+      <mapping ext="default" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="Properties" />
     </extensionMap>
   </component>
