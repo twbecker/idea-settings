@@ -206,7 +206,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'ffs'</Description>
-          <Count>94</Count>
+          <Count>95</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -222,7 +222,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>86</Count>
+          <Count>87</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -350,7 +350,7 @@
           <IdeaActionID>Compile</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F9'</ShortCut>
           <Description>Recompile '...goriesResource.java'</Description>
-          <Count>6</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...inServerModule.java'">
@@ -654,7 +654,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1313</Count>
+          <Count>1319</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -902,7 +902,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>829</Count>
+          <Count>830</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Catalog Server'">
