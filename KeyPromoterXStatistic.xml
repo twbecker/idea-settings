@@ -1049,6 +1049,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Toggle Bookmark with Mnemonic">
+        <Item>
+          <IdeaActionID>ToggleBookmarkWithMnemonic</IdeaActionID>
+          <ShortCut>'Ctrl+F11'</ShortCut>
+          <Description>Toggle Bookmark with Mnemonic</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Trace Current Stream Chain">
         <Item>
           <IdeaActionID>StreamTracerAction</IdeaActionID>
