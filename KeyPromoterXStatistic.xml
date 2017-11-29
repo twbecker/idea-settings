@@ -622,7 +622,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Run Individual Robot Test'</Description>
-          <Count>198</Count>
+          <Count>201</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Run Robot Test'">
