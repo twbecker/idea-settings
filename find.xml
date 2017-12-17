@@ -3,14 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.robot" />
     <recentFileMasks>
-      <mask>*.ja</mask>
-      <mask>*.dr</mask>
-      <mask>*.drl</mask>
-      <mask>*.rob</mask>
-      <mask>*.robot</mask>
-      <mask>pom.mxl</mask>
-      <mask>pom.mx</mask>
       <mask>pom.m</mask>
       <mask>*.jav</mask>
       <mask>*.avsc</mask>
@@ -29,11 +23,18 @@
       <mask>pom.x</mask>
       <mask>pom.xm</mask>
       <mask>pom.xml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.y</mask>
       <mask>*.ym</mask>
       <mask>*.yml</mask>
+      <mask>*.s</mask>
+      <mask>*.sq</mask>
+      <mask>*.sql</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.r</mask>
+      <mask>*.rob</mask>
+      <mask>*.robo</mask>
+      <mask>*.robot</mask>
     </recentFileMasks>
   </component>
 </application>
